@@ -9,7 +9,7 @@ My goal is to build impactful digital experiences that are intuitive and fun.
 - SQL and Databases
 - Frontend Frameworks
 - REST API
-- Websokets
+- Websockets
 - Machine Learning
 
 
